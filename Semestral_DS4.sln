@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semestral_DS4", "Semestral_DS4\Semestral_DS4.csproj", "{093877F2-0323-4147-AE00-EE484BE3BA0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{093877F2-0323-4147-AE00-EE484BE3BA0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093877F2-0323-4147-AE00-EE484BE3BA0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093877F2-0323-4147-AE00-EE484BE3BA0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093877F2-0323-4147-AE00-EE484BE3BA0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0670EA54-16C2-47B7-B910-18E6EB28AAAA}
+	EndGlobalSection
+EndGlobal
